@@ -20,6 +20,7 @@ class DefaultController extends Controller
         ]);
     }
 
+<<<<<<< HEAD
     /**
     * @Route("/voorraad/bijvullen/{artikelnummer}", name="voorraadBijvullen")
     */
@@ -40,4 +41,6 @@ class DefaultController extends Controller
         else
           return new Response('<html><body>De voorraad is vol genoeg</body></html>');
     }
+=======
+>>>>>>> master
 }

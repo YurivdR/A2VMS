@@ -1,0 +1,12 @@
+# This file is auto-generated during the composer install
+parameters:
+    database_host: vserver247.axc.nl
+    database_port: null
+    database_name: mounipx247_projectvms
+    database_user: mounipx247_projectvms
+    database_password: ProjectA2.
+    mailer_transport: smtp
+    mailer_host: 127.0.0.1
+    mailer_user: null
+    mailer_password: null
+    secret: ThisTokenIsNotSoSecretChangeIt
