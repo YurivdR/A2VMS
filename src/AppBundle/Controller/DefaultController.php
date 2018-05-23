@@ -39,6 +39,6 @@ class DefaultController extends Controller
           return new Response('<html><body>De huidige voorraad is te laag, Er is/zijn '.$verschil.' artikel(en) aan de bestelserie toegevoegd.</body></html>');
       }
         else
-          return new Response('<html><body>De voorraad is vol AANPASSING genoeg</body></html>');
+          return new Response('<html><body>De voorraad is vol AANPASSING3 genoeg</body></html>');
     }
 }
